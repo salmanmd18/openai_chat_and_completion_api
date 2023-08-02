@@ -1,0 +1,4 @@
+openapi
+pandas
+numpy 
+python-dotenv
